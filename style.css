@@ -1,0 +1,21 @@
+@font-face {
+   font-family: "ATT Aleck Sans";
+   src: url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.eot");
+   src: url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.woff") format("woff"), url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/81114dfbe8d66f7ae14f2be3573a8a12.svg#ATT Aleck Sans") format("svg");
+}
+
+@font-face {
+   font-weight: 400;
+   font-family: 'SFP';
+   src: url("font/SFProText-Regular.woff2") format("woff2");
+}
+
+@font-face {
+   font-weight: 500;
+   font-family: 'SFP';
+   src: url("font/SFProText-Medium.woff2") format("woff2");
+}
+
+.btn {
+   font-family: 'SFP';
+}
